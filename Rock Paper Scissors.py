@@ -4,7 +4,7 @@ rock = '''
     _______
 ---'   ____)
       (_____)
-      (_____) 
+      (_____)
       (____)
 ---.__(___)
 '''
@@ -26,8 +26,6 @@ scissors = '''
       (____)
 ---.__(___)
 '''
-
-#Write your code below this line 👇
 
 player_choice = int(input("Please choose 0 for Rock, 1 for Paper, or 2 for Scissors.\n"))
 
